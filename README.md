@@ -1,16 +1,13 @@
-## Hi there 👋
+#   Valberto Vieira Nascimento
 
-<!--
-**valvnascm/valvnascm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Sou um estudante de ciência da computação me encontro no P2. Estudo na Unipê
 
-Here are some ideas to get you started:
+## 🛠 Skills
+Tenho habilidades básicas em Python, HTML, tenho muito a evoluir e tenho interesse a aprender coisas novas;
+Tenho boas habilidades comunic , gosto de trabalhar em equipe;
+Tenho interessses na área de cyberserucrity;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Contato
+📫 Como entrar em contato comigo..
+Email: valbertovieira12@gmail.com
